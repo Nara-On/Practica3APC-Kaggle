@@ -13,4 +13,4 @@
 ## Estructura repositori
 
 * databases: Totes les bases de dades del projecte
-* documents: Documentació relacionada al project
+* documents: Documentació relacionada al projecte
