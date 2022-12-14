@@ -14,3 +14,4 @@
 
 * databases: Totes les bases de dades del projecte
 * documents: Documentació relacionada al projecte
+* images: Totes les imatges resultants del projecte
