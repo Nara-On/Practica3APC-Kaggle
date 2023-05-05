@@ -1,7 +1,6 @@
 # Pràctica 3 APC: Kaggle
 
 * Autora: Marina Bermúdez Granados
-* NIU: 1599120
 * Usuari GitHub: Nara-On
 * Correu: marinabgbg02@gmail.com 
 <br >
