@@ -1,13 +1,8 @@
 # Pràctica 3 APC: Kaggle
 
-* Autora: Marina Bermúdez Granados
-* NIU: 1599120
-* Usuari GitHub: Nara-On
-* Correu: marinabgbg02@gmail.com 
+<b>Autora:</b> Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br />
 <br >
-
-* Base de Dades a Kaggle: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
-
+<b>Base de Dades a Kaggle:</b> https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 <br >
 
 ## Estructura repositori
